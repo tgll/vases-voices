@@ -5,7 +5,7 @@
 Vases Voices
 ------------
 
-Mixed Reality and Tangible Interactions project (1st Year of Master degree in Universite Paris-Saclay)
+**Mixed Reality and Tangible Interactions project (1st Year of Master degree in Universite Paris-Saclay)**
 
 Vases Voices is an interactive 3D installation that allows the participants to explore sound through physical 3D objects beforehand created by sound processing and modeling. 
 The goal of this project is to reify the human voice into a physical art object.
@@ -16,4 +16,4 @@ It can be set for different social environment depending of the purpose going fr
 
 ### More courses
 
-See the summary [here](http://)
+See the summary of other courses projects [here](https://github.com/tgll/COURSES-PROJECTS-list)
